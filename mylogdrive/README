@@ -1,6 +1,8 @@
 
 This is the project which update the log by custom driver and read the log to mylog.log.
 When mylog.log size is more than 1k bytes, recover from the begining.
+Documents include:
+README, Chart_log_driver.pdf, bin, include, logmodule, src
 
 Execution steps:
 1.xxx# insmod logmodule.ko

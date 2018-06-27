@@ -9,15 +9,15 @@
 
 static int log_open(struct inode *inode, struct file *file)
 {
-    printk(KERN_EMERG "log open.\n");
+    //printk(KERN_EMERG "log open.\n");
     return 0;
 }
 
 static ssize_t log_write(struct file *file, const char __user * buf, size_t count, loff_t *ppos)
 {
     
-    printk(KERN_EMERG "log write.\n");
-    printk(KERN_EMERG "FlyAudio.%d\n", (int)count); 
+    //printk(KERN_EMERG "log write.\n");
+    printk(KERN_EMERG "FlyAudio.%04d\n", (int)count); 
     return 0;
 }
 
