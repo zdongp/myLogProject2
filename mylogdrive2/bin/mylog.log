@@ -1,0 +1,50 @@
+offset:0605
+<0>[12800.241483] FlyAudio.0032
+<0>[12801.265536] FlyAudio.0033
+<0>[12802.293710] FlyAudio.0034
+<0>[12803.313603] FlyAudio.0035
+<0>[12804.337656] FlyAudio.0036
+<0>[12805.361699] FlyAudio.0037
+<0>[12806.385736] FlyAudio.0038
+<0>[12807.409779] FlyAudio.0039
+<0>[12808.433809] FlyAudio.0040
+<0>[12809.457846] FlyAudio.0041
+<0>[12810.481884] FlyAudio.0042
+<0>[12811.505927] FlyAudio.0043
+<0>[12812.529978] FlyAudio.0044
+<0>[12813.553997] FlyAudio.0045
+<0>[12814.578037] FlyAudio.0046
+<0>[12815.602086] FlyAudio.0047
+<0>[12816.064897] log_tesk had been killed!
+<0>[12816.064938] LogModule removed.
+4.880881] FlyAudio.0017
+<0>[12785.904900] FlyAudio.0018
+<0>[12786.928959] FlyAudio.0019
+<0>[12787.952989] FlyAudio.0020
+<0>[12788.977046] FlyAudio.0021
+<0>[12790.001074] FlyAudio.0022
+<0>[12791.025112] FlyAudio.0023
+<0>[12792.049156] FlyAudio.0024
+<0>[12793.073195] FlyAudio.0025
+<0>[12794.097236] FlyAudio.0026
+<0>[12795.121281] FlyAudio.0027
+<0>[12796.145331] FlyAudio.0028
+<0>[12797.169359] FlyAudio.0029
+<0>[12798.193412] FlyAudio.0030
+<0>[12799.217444] FlyAudio.0031
+0006
+<0>[12461.535556] FlyAudio.0007
+<0>[12462.559622] FlyAudio.0008
+<0>[12463.583698] FlyAudio.0009
+<0>[12464.607767] FlyAudio.0010
+<0>[12465.635849] FlyAudio.0011
+<0>[12466.655897] FlyAudio.0012
+<0>[12467.679977] FlyAudio.0013
+<0>[12468.704049] FlyAudio.0014
+<0>[12469.728113] FlyAudio.0015
+<0>[12470.752200] FlyAudio.0016
+<0>[12471.776258] FlyAudio.0017
+<0>[12472.800330] FlyAudio.0018
+<0>[12472.898808] log_tesk had been killed!
+<0>[12472.898849] LogModule removed.
+<6>[12689.941372] perf: interrupt took too long (3134 > 3126), lowering kernel.perf_event_max_sample_rate to 63750
