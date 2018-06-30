@@ -1,1 +1,0 @@
-cmd_/home/dong/code/mylogdrive/logmodule/logmodule.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/dong/code/mylogdrive/logmodule/logmodule.ko /home/dong/code/mylogdrive/logmodule/logmodule.o /home/dong/code/mylogdrive/logmodule/logmodule.mod.o ;  true
