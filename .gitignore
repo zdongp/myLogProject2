@@ -1,0 +1,19 @@
+##ignore this file##
+/target/
+
+bin/
+include/
+.tmp_versions/
+
+
+logmodule.mod.c  
+logmodule.o        
+Module.symvers
+logmodule.ko  
+logmodule.mod.o  
+log.o        
+modules.order
+.log.o.cmd
+.logmodule.ko.cmd
+.logmodule.mod.o.cmd
+.logmodule.o.cmd
